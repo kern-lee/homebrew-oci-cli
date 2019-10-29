@@ -1,4 +1,4 @@
-class OciCli < Formula
+class Ocicli < Formula
   include Language::Python::Virtualenv
 
   desc "Oracle Cloud Infrastructure CLI"
